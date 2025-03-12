@@ -1,0 +1,16 @@
+2025-03-05 14:27:45,248 - INFO - Created download folder: powerbi_data\2025-03-05
+2025-03-05 14:27:45,249 - INFO - Starting Power BI Data Scraper
+2025-03-05 14:27:45,249 - INFO - Fetching content from https://www.oecd.org/en/data/tools/beps-mli-matching-database.html
+2025-03-05 14:27:45,398 - ERROR - Error fetching page content: 403 Client Error: Forbidden for url: https://www.oecd.org/en/data/tools/beps-mli-matching-database.html
+2025-03-05 14:27:45,398 - INFO - Scraping completed.
+2025-03-05 14:30:40,717 - INFO - ====== WebDriver manager ======
+2025-03-05 14:30:41,635 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-05 14:30:41,795 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-05 14:30:41,952 - INFO - Driver [C:\Users\Dileep Kumar MR\.wdm\drivers\chromedriver\win64\134.0.6998.35\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-05 14:30:43,363 - INFO - Starting Power BI Data Scraper
+2025-03-05 14:30:43,364 - INFO - Fetching content from https://www.oecd.org/en/data/tools/beps-mli-matching-database.html
+2025-03-05 14:30:51,809 - INFO - Found Power BI Report URL: //www.googletagmanager.com/ns.html?id=GTM-P5JSM4P
+2025-03-05 14:30:51,810 - INFO - Checking Power BI data source: //www.googletagmanager.com/ns.html?id=GTM-P5JSM4P
+2025-03-05 14:30:51,810 - ERROR - Error fetching Power BI data: Invalid URL '//www.googletagmanager.com/ns.html?id=GTM-P5JSM4P': No scheme supplied. Perhaps you meant https:////www.googletagmanager.com/ns.html?id=GTM-P5JSM4P?
+2025-03-05 14:30:51,810 - INFO - No data to save.
+2025-03-05 14:30:51,810 - INFO - Scraping completed.
