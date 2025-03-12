@@ -1,5 +1,5 @@
 
-## Running the Script
+## Documentation for Running the Scripts
 
 Run the tax-gov-ae PDF scraper:
 
@@ -7,7 +7,7 @@ Run the tax-gov-ae PDF scraper:
 python tax-gov-ae-scrapper.py  # Use this script for scraping the PDFs of the current day
 
 python scrapper2.py  # Use this script for scraping the PDFs of a particular date
-```sh
+```
 
 ## Prerequisites for running the scripts (oced.org site)
 
@@ -20,5 +20,5 @@ Ensure you have the following installed:
 
 ```sh
 pip install requests beautifulsoup4 selenium pandas playwright
-```sh
+```
 
